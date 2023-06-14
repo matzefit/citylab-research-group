@@ -2,7 +2,7 @@
 organizations:
   - name: New York University - Tandon School of Engineering
     url: ""
-superuser: false
+superuser: true
 authors:
   - 吳恩達
 avatar_filename: ""
