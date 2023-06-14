@@ -22,9 +22,6 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=0cILI7wAAAAJ&hl=en
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
 organizations:
   - name: New York University - Tandon School of Engineering
     url: https://engineering.nyu.edu/
