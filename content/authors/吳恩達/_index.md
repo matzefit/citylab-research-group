@@ -39,7 +39,6 @@ education:
       year: 2018
 user_groups:
   - Researchers
-  - Visitors
 last_name: Wu
 title: Matthias Fitzky
 role: PhD Candidate in Urban Systems
