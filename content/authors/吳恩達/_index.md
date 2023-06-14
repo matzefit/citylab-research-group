@@ -5,7 +5,7 @@ organizations:
 superuser: false
 authors:
   - 吳恩達
-avatar_filename: matthias_fitzky_profilepic.jpg
+avatar_filename: ""
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
