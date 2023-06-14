@@ -1,79 +1,52 @@
 ---
-# Display name
-title: Alice Wu 吳恩達
-
-# Full name (for SEO)
-first_name: Alice
-last_name: Wu
-
-# Username (this should match the folder name)
+organizations:
+  - name: New York University - Tandon School of Engineering
+    url: ""
+superuser: false
 authors:
   - 吳恩達
-
-# Is this the primary user of the site?
-superuser: false
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-  - name: Stanford University
-    url: ''
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include distributed robotics, mobile computing and
+  programmable matter.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
-
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
+  - Digital Twins
+  - Smart Cities
+  - Location Intelligence
+  - Geographic Data Science
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: mailto:matthias.fitzky@nyu.edu
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/MatthiasFitzky
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?user=hkYFXQMAAAAJ&hl=en&oi=ao
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    link: https://github.com/matzefit
+education:
+  courses:
+    - course: PhD in Urban Systems
+      institution: NYU Tandon School of Engineering
+      year: 2025
+    - course: MSc in Photogrammetry and Geoinformatics
+      institution: University of Applied Sciences Stuttgart (HFT)
+      year: 2019
+    - course: BEng in Geoinformatics and Surveying
+      institution: University of Applied Sciences Stuttgart (HFT)
+      year: 2018
 user_groups:
   - Researchers
   - Visitors
+last_name: Wu
+title: Matthias Fitzky
+role: PhD Candidate in Urban Systems
+first_name: Alice
+email: ""
 ---
+Matthias Fitzky is a PhD Candidate in Urban Systems at the NYU Tandon School of Engineering located in Downtown Brooklyn, NY
 
-吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Prior to attending this program he's been working as a Research Assistant at the [Advanced Material and Building Efficiency Laboratory](https://nyuad.nyu.edu/en/research/centers-labs-and-projects/amber-lab.html), Department of Civil Engineering at New York University Abu Dhabi.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+He received a B. Eng. degree in Surveying and Geoinformatics in 2018 and a M.Sc. degree in Photogrammetry and Geoinformatics in 2019 from the [University of Applied Sciences Stuttgart](https://www.hft-stuttgart.de). Throughout hisstudies he specialized in the subject of 3D [Geographical Information Systems ](https://en.wikipedia.org/wiki/Geographic_information_system) with a focus on 3D City Models and their applications in thermal energy simulations. HisM.Sc. thesis research focused on the development of a concept for cooling energy demand simulations of buildings under the use of 3D City Models of Singapore. During that time, he's been working at the [Singapore Land Authority](https://www.sla.gov.sg/) where his research project has been conducted in collaboration with the Geomatics Department of the SLA. Before joining AMBER Lab, He's been working as a Research Assistant at the Centre for Geodesy and Geoinformatics under the guidance of [Prof. Dr. Volker Coors](https://coors-online.de/) from the HFT Stuttgart. He's been involved in several projects dealing with the prediction of heating energy demand of buildings and implementing building’s energy labelling methods. His current research is focusing on assessing the radiative heat transfers in urban environments in New York City.
